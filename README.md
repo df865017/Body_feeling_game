@@ -15,6 +15,10 @@ Body Feeling Game System
 ### Unity3D人物模型和游戏场景
 ![github](https://github.com/df865017/Body_feeling_game/blob/master/pic/player.jpg "github") 
 
+### 游戏中截图
+![github](https://github.com/df865017/Body_feeling_game/blob/master/pic/TeritGame.jpg "github") </br>
+![github](https://github.com/df865017/Body_feeling_game/blob/master/pic/PlayerGame.jpg "github") 
+
 方法介绍
 =================================== 
 ### 手势控制俄罗斯方块
