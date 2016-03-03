@@ -1,7 +1,7 @@
 # Body_feeling_game
 Body Feeling Game System
 
-基于Kinect VS C#实现手势控制俄罗斯方块和手势控制Unity3d人物模型的课题
+基于Kinect VS C#实现手势控制俄罗斯方块和手势控制Unity3d人物模型的体感游戏系统
 ===================================  
 ### 游戏的入口
 ![github](https://github.com/df865017/Body_feeling_game/blob/master/pic/main.jpg "github") 
@@ -15,7 +15,10 @@ Body Feeling Game System
 ### Unity3D人物模型和游戏场景
 ![github](https://github.com/df865017/Body_feeling_game/blob/master/pic/player.jpg "github") 
 
-### 方法介绍
+方法介绍
+=================================== 
+### 手势控制俄罗斯方块
+
 利用C#编写俄罗斯方块的程序；
 通过键盘事件控制俄罗斯方块的相关事件；
 开始，暂停，变换，加速，向左，向右。
@@ -23,7 +26,7 @@ Body Feeling Game System
 导入kinect姿势数据库，识别手势动作；
 通过手势识别促发键盘事件，控制俄罗斯方块的游戏。
 
-
+### 手势控制Unity3d人物模型
 通过Unity绘制3D场景，加载3D模型；
 （2）运用第三人称角色控制器；
 （3）加载3D模型动作的方法；
